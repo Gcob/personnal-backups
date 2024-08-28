@@ -1,0 +1,6 @@
+backups
+config.js
+
+node_modules
+.idea
+.vscode

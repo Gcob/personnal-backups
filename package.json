@@ -1,0 +1,14 @@
+{
+  "name": "backup-script",
+  "version": "1.0.0",
+  "description": "Script de sauvegarde avec Node.js",
+  "type": "module",
+  "main": "backup.js",
+  "scripts": {
+    "backup": "node backup.js",
+    "manageCron": "node manageCron.js"
+  },
+  "dependencies": {
+    "archiver": "^5.3.0"
+  }
+}
